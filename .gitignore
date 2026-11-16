@@ -1,0 +1,19 @@
+# Local conversion tools and browser QA artifacts
+/.media-tools/
+/.qa-cuento/
+/qa-*.cjs
+
+# Original media; the website uses prepared copies in para-ti/assets
+/fotos/
+/musica/
+
+# Private author inputs and editorial context (keep on this computer)
+/*.txt
+/*.json
+
+# Local environment and hosting credentials
+/.env
+/.env.*
+/.vercel/
+**/__pycache__/
+*.pyc

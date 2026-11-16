@@ -1,0 +1,10 @@
+const fs=require('node:fs'),path=require('node:path');
+const full=fs.readFileSync(path.join(__dirname,'carta principal revisada.txt'),'utf8').replace(/\r\n/g,'\n').trim();
+const split=full.lastIndexOf('\n\n');
+if(split<0)throw Error('Missing letter paragraphs');
+const body=full.slice(0,split),signature=full.slice(split+2);
+const target=path.join(__dirname,'para-ti/content.js');let source=fs.readFileSync(target,'utf8');
+const match=source.match(/  longLetter: \{[^\n]+\},/);if(!match)throw Error('Letter configuration missing');
+source=source.replace(match[0],'  longLetter: '+JSON.stringify({title:'Para ti, en tu cumpleaños.',body,signature})+',');
+fs.writeFileSync(target,source);
+console.log('Main letter integrated with '+body.split(/\n\n/).length+' paragraphs and a separate signature.');

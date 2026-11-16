@@ -1,0 +1,290 @@
+[
+  {
+    "id": "foto-01",
+    "type": "image",
+    "original": "20230823_115528.jpg",
+    "src": "assets/recuerdos/foto-01.jpg",
+    "thumbnail": "assets/recuerdos/foto-01-mini.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "id": "foto-02",
+    "type": "image",
+    "original": "26637c04-cb44-4073-adbd-961a65b73f42.jpg",
+    "src": "assets/recuerdos/foto-02.jpg",
+    "thumbnail": "assets/recuerdos/foto-02-mini.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "id": "foto-03",
+    "type": "image",
+    "original": "5ccc332f-bf4d-4641-91e6-a1a636365f46.jpg",
+    "src": "assets/recuerdos/foto-03.jpg",
+    "thumbnail": "assets/recuerdos/foto-03-mini.jpg",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "id": "foto-04",
+    "type": "image",
+    "original": "80BE2F4C-AD1C-4B32-99E8-1E07173E3782.jpg",
+    "src": "assets/recuerdos/foto-04.jpg",
+    "thumbnail": "assets/recuerdos/foto-04-mini.jpg",
+    "width": 828,
+    "height": 1472
+  },
+  {
+    "id": "foto-05",
+    "type": "image",
+    "original": "ed6a1ac8-c486-46f6-bda5-c090eed6d66b.jpg",
+    "src": "assets/recuerdos/foto-05.jpg",
+    "thumbnail": "assets/recuerdos/foto-05-mini.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "id": "foto-06",
+    "type": "image",
+    "original": "IMG_0033.HEIC",
+    "src": "assets/recuerdos/foto-06.jpg",
+    "thumbnail": "assets/recuerdos/foto-06-mini.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "id": "foto-07",
+    "type": "image",
+    "original": "IMG_0070.HEIC",
+    "src": "assets/recuerdos/foto-07.jpg",
+    "thumbnail": "assets/recuerdos/foto-07-mini.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "id": "foto-08",
+    "type": "image",
+    "original": "IMG_0386.JPG",
+    "src": "assets/recuerdos/foto-08.jpg",
+    "thumbnail": "assets/recuerdos/foto-08-mini.jpg",
+    "width": 828,
+    "height": 1472
+  },
+  {
+    "id": "foto-09",
+    "type": "image",
+    "original": "IMG_0633.HEIC",
+    "src": "assets/recuerdos/foto-09.jpg",
+    "thumbnail": "assets/recuerdos/foto-09-mini.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "id": "foto-10",
+    "type": "image",
+    "original": "IMG_0645.HEIC",
+    "src": "assets/recuerdos/foto-10.jpg",
+    "thumbnail": "assets/recuerdos/foto-10-mini.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "id": "foto-11",
+    "type": "image",
+    "original": "IMG_0862.HEIC",
+    "src": "assets/recuerdos/foto-11.jpg",
+    "thumbnail": "assets/recuerdos/foto-11-mini.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "id": "foto-12",
+    "type": "image",
+    "original": "IMG_1116.HEIC",
+    "src": "assets/recuerdos/foto-12.jpg",
+    "thumbnail": "assets/recuerdos/foto-12-mini.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "id": "foto-13",
+    "type": "image",
+    "original": "IMG_1210.HEIC",
+    "src": "assets/recuerdos/foto-13.jpg",
+    "thumbnail": "assets/recuerdos/foto-13-mini.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "id": "foto-14",
+    "type": "image",
+    "original": "IMG_1729.HEIC",
+    "src": "assets/recuerdos/foto-14.jpg",
+    "thumbnail": "assets/recuerdos/foto-14-mini.jpg",
+    "width": 4032,
+    "height": 3024
+  },
+  {
+    "id": "foto-15",
+    "type": "image",
+    "original": "IMG_1745.HEIC",
+    "src": "assets/recuerdos/foto-15.jpg",
+    "thumbnail": "assets/recuerdos/foto-15-mini.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "id": "foto-16",
+    "type": "image",
+    "original": "IMG_1773.JPG",
+    "src": "assets/recuerdos/foto-16.jpg",
+    "thumbnail": "assets/recuerdos/foto-16-mini.jpg",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "id": "foto-17",
+    "type": "image",
+    "original": "IMG_1946.JPG",
+    "src": "assets/recuerdos/foto-17.jpg",
+    "thumbnail": "assets/recuerdos/foto-17-mini.jpg",
+    "width": 828,
+    "height": 1472
+  },
+  {
+    "id": "foto-18",
+    "type": "image",
+    "original": "IMG_3078.HEIC",
+    "src": "assets/recuerdos/foto-18.jpg",
+    "thumbnail": "assets/recuerdos/foto-18-mini.jpg",
+    "width": 3024,
+    "height": 4032
+  },
+  {
+    "id": "foto-19",
+    "type": "image",
+    "original": "IMG_4324.HEIC",
+    "src": "assets/recuerdos/foto-19.jpg",
+    "thumbnail": "assets/recuerdos/foto-19-mini.jpg",
+    "width": 4032,
+    "height": 3024
+  },
+  {
+    "id": "foto-20",
+    "type": "image",
+    "original": "WhatsApp Image 2026-11-13 at 4.44.46 PM (1).jpeg",
+    "src": "assets/recuerdos/foto-20.jpg",
+    "thumbnail": "assets/recuerdos/foto-20-mini.jpg",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "id": "foto-21",
+    "type": "image",
+    "original": "WhatsApp Image 2026-11-13 at 4.44.46 PM (2).jpeg",
+    "src": "assets/recuerdos/foto-21.jpg",
+    "thumbnail": "assets/recuerdos/foto-21-mini.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "id": "foto-22",
+    "type": "image",
+    "original": "WhatsApp Image 2026-11-13 at 4.44.46 PM (3).jpeg",
+    "src": "assets/recuerdos/foto-22.jpg",
+    "thumbnail": "assets/recuerdos/foto-22-mini.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "id": "foto-23",
+    "type": "image",
+    "original": "WhatsApp Image 2026-11-13 at 4.44.46 PM.jpeg",
+    "src": "assets/recuerdos/foto-23.jpg",
+    "thumbnail": "assets/recuerdos/foto-23-mini.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "id": "foto-24",
+    "type": "image",
+    "original": "WhatsApp Image 2026-11-13 at 4.44.47 PM (1).jpeg",
+    "src": "assets/recuerdos/foto-24.jpg",
+    "thumbnail": "assets/recuerdos/foto-24-mini.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "id": "foto-25",
+    "type": "image",
+    "original": "WhatsApp Image 2026-11-13 at 4.44.47 PM.jpeg",
+    "src": "assets/recuerdos/foto-25.jpg",
+    "thumbnail": "assets/recuerdos/foto-25-mini.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "id": "video-01",
+    "type": "video",
+    "original": "2565840E-53BF-4879-94CF-B1015DE30FC5.mp4",
+    "src": "assets/recuerdos/video-01.mp4",
+    "poster": "assets/recuerdos/video-01-poster.jpg",
+    "width": 394,
+    "height": 700
+  },
+  {
+    "id": "video-02",
+    "type": "video",
+    "original": "IMG_1928.MOV",
+    "src": "assets/recuerdos/video-02.mp4",
+    "poster": "assets/recuerdos/video-02-poster.jpg",
+    "width": 394,
+    "height": 700
+  },
+  {
+    "id": "video-03",
+    "type": "video",
+    "original": "IMG_3286.MOV",
+    "src": "assets/recuerdos/video-03.mp4",
+    "poster": "assets/recuerdos/video-03-poster.jpg",
+    "width": 700,
+    "height": 394
+  },
+  {
+    "id": "video-04",
+    "type": "video",
+    "original": "WhatsApp Video 2026-11-13 at 4.44.48 PM.mp4",
+    "src": "assets/recuerdos/video-04.mp4",
+    "poster": "assets/recuerdos/video-04-poster.jpg",
+    "width": 394,
+    "height": 700
+  },
+  {
+    "id": "video-05",
+    "type": "video",
+    "original": "WhatsApp Video 2026-11-13 at 4.44.52 PM.mp4",
+    "src": "assets/recuerdos/video-05.mp4",
+    "poster": "assets/recuerdos/video-05-poster.jpg",
+    "width": 700,
+    "height": 394
+  },
+  {
+    "id": "video-06",
+    "type": "video",
+    "original": "WhatsApp Video 2026-11-13 at 4.44.54 PM.mp4",
+    "src": "assets/recuerdos/video-06.mp4",
+    "poster": "assets/recuerdos/video-06-poster.jpg",
+    "width": 394,
+    "height": 700
+  },
+  {
+    "id": "video-07",
+    "type": "video",
+    "original": "WhatsApp Video 2026-11-13 at 4.44.56 PM.mp4",
+    "src": "assets/recuerdos/video-07.mp4",
+    "poster": "assets/recuerdos/video-07-poster.jpg",
+    "width": 394,
+    "height": 700
+  }
+]

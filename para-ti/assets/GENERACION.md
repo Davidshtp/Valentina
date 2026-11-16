@@ -1,0 +1,5 @@
+Ilustración creada con la herramienta integrada image_gen. Original: picnic-de-cuento.png. Copia JPEG optimizada para la página: picnic-de-cuento-web.jpg.
+
+Prompt utilizado:
+
+Use case: illustration-story. Asset type: wide website hero illustration for a romantic personal scrapbook, landscape 3:2. A richly painted cozy Japanese animation countryside in gouache and watercolor: green rolling meadow full of tiny cream and pink flowers, drifting fluffy clouds, pale blue sky, a fantastical walking mechanical castle inspired by Howl's Moving Castle on the right hill, Totoro sitting beneath a leafy tree on the left holding a love letter, and Snoopy lying happily near a picnic blanket in the lower foreground. Charming hand drawn outlines, soft paper texture, warm afternoon sunlight, sage green, buttery yellow, dusty pink, sky blue. Generous quiet pale sky in upper third. Keep characters and castle visible within central 80% so mobile crop can work. Beautiful detailed narrative illustration, not a website mockup. No typography, no watermark, no borders.
